@@ -1,0 +1,11 @@
+name: AdminFun
+version: ${project.version}
+main: xyz.fluxinc.adminfun.AdminFun
+api-version: 1.13
+authors: [CelesteMagisteel]
+description: Adds fun commands
+commands:
+  slap:
+    permission: adminfun.slap
+  freeze:
+    permission: adminfun.freeze

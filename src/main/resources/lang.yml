@@ -1,0 +1,24 @@
+# Language File for AdminFun
+
+# Prefix shown before chat messages.
+prefix: "&7[&9AdminFun&7] "
+
+# Shown when an invalid usage is given
+# Valid Variables: %usage%
+invalidUsage: "&4Invalid Command Usage! Correct Usage: &c%usage%"
+
+# Shown when an invalid player is given
+# Valid Variables: %target%
+userNotFound: "&4No user with the name %target% is logged in!"
+
+# Shown when slap is successful
+# Valid Variables: %target%, %dtarget% (display name)
+slapSuccess: "&4You have slapped %dtarget%"
+
+# Shown when a player is frozen
+# Valid Variables: %target%, %dtarget% (display name)
+freezeSuccess: "&4You have frozen %dtarget%"
+
+# Shown when a player is unfrozen
+# Valid Variables: %target%, %dtarget% (display name)
+unfreezeSuccess: "&4You have released %dtarget%"
